@@ -37,4 +37,4 @@ I follow a simple weekly routine to maintain this repository:
 
 Thank you for visiting my repository!
 
-**Learning consistently, improving gradually.**
+**Learn consistently, improving gradually.**
